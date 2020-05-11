@@ -1,0 +1,26 @@
+body{
+  text-align: center;
+  background-color: #596157;
+}
+.container{
+  font-family: 'Lobster', cursive;
+  margin: auto;
+  width: 75%;
+}
+.dice{
+  font-family: 'Righteous', cursive;
+  display: inline-block;
+}
+
+h1{
+  margin: 30px;
+  font-size: 8rem;
+  text-shadow: 5px 0 #434e52;
+
+}
+p{
+  font-size: 2rem;
+}
+img{
+  width:50%;
+}
